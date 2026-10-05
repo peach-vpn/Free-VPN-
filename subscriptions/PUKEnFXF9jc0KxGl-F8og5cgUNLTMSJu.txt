@@ -1,6 +1,6 @@
 🍑 Персик VPN
 🆓 Бесплатный VPN | 🇳🇱 Нидерланды • 🇩🇪 Германия • 🇰🇿 Казахстан
-#subscription-userinfo: upload=0; download=0; expire=1791818332
+#subscription-userinfo: upload=0; download=0; expire=2655731932
 #profile-update-interval: 1
 
 id="PUKEnF"
