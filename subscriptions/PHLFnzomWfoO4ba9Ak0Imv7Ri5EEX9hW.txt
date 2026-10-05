@@ -1,0 +1,4 @@
+#profile-title: 🍑 Персик VPN
+#announce: Подписка отключена
+#subscription-userinfo: upload=0; download=0; total=0; expire=1
+#profile-update-interval: 1
