@@ -1,6 +1,6 @@
 #profile-title: 🍑 Персик VPN
 #announce: 🆓 Бесплатный VPN
-#subscription-userinfo: upload=0; download=0; expire=1811487618
+#subscription-userinfo: upload=0; download=0; expire=1897801218
 #profile-update-interval: 1
 
 # ГЕРМАНИЯ
