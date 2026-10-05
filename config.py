@@ -1,0 +1,18 @@
+import os
+
+BOT_TOKEN = os.getenv("PEACH_BOT_TOKEN", "8993961641:AAF9G-FXvak0XvGkfrHbEAIUXR7Wf8mwmSY")
+
+SUBSCRIPTION_BASE_URL = os.getenv(
+    "SUBSCRIPTION_BASE_URL",
+    "http://127.0.0.1:8080"
+).rstrip("/")
+
+VPN_NAME = "🍑 PeachVPN"
+
+TOTAL_BYTES = 10 * 1024 * 1024 * 1024
+EXPIRE_DAYS = 30
+
+DATABASE_FILE = "peachvpn.db"
+
+API_HOST = "0.0.0.0"
+API_PORT = 8080
