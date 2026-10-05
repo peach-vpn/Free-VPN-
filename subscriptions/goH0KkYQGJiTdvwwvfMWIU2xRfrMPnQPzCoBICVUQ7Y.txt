@@ -1,6 +1,0 @@
-#profile-title: 🍑 PeachVPN
-#profile-update-interval: 60
-#subscription-userinfo: upload=0;download=0;total=10737418240;expire=1802329218
-#profile-status: active
-
-vless://8946bb45-505d-006e-91c0-5884a99f59fa@201.34.137.122:8443?encryption=none&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2F4ae57e3cad3bf16&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8D%91%20%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%BA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%201
