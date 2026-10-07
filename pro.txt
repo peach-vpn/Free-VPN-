@@ -1,6 +1,3 @@
-#profile-title: 🍑 Персик PRO
-#profile-update-interval: 1
-
 # пк/тел
 
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru1389364a.eu-cdn294.com:443?encryption=none&security=tls&sni=ru1389364a.eu-cdn294.com&fp=chrome&alpn=http%2F1.1&type=tcp&flow=xtls-rprx-vision#🇷🇺%20Россия%20%5BYoutube%20без%20рекламы%5D
